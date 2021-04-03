@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.705),rgba(0, 0, 0, 0.705)),url(../img/img1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+
+}
+.new-class{
+    background-color: rgba(64, 58, 146, 0.651);
+    padding: 20px;
+    height: 560px;
+    width: 90%;
+}
+
+.container{
+    padding-top: 80px;
+    color: white;
+}
+.class-2{
+    text-transform: uppercase;
+    padding-top: 40px;
+
+
+
+}
+
+.class-2 ul{
+    list-style: none;
+}
+.gg{
+color: green;
+}
+.pera{
+    text-transform: capitalize;
+}
+.list{
+    text-transform: capitalize;
+}
+.btn1{
+    background-color: rgba(64, 58, 146, 0.651);
+    border-radius: 20px;
+    box-shadow: 2px 2px 6px rgb(115, 115, 194),
+                  -2px -2px 6px rgb(40, 40, 78);
+    padding: 10px 20px;
+    cursor: pointer;
+    color: white;
+}
+.btn1:hover{
+    color: rgb(175, 175, 216);
+}
+.btn2{
+    background-color: rgba(163, 68, 155, 0.651);
+    border-radius: 20px;
+    box-shadow: 2px 2px 6px rgb(115, 115, 194),
+                  -2px -2px 6px rgb(40, 40, 78);
+    padding: 10px 20px;
+    cursor: pointer;
+    color: white;
+
+}
+.btn2:hover{
+    color: rgb(175, 175, 216);
+}
+.reg{
+    background-color: white;
+    text-transform: capitalize;
+    padding:10px 80px;
+    padding-left: 0px;
+    margin: 10px;
+    color: rgba(0, 0, 0, 0.596);
+    text-align: left;
+}
+.head2{
+    text-align: center;
+    text-transform: uppercase;
+}
+.pera2{
+    text-align: center;
+}
+.signin{
+    margin: 20px;
+}
+
+.pera3{
+    display: inline-block;
+
+}
